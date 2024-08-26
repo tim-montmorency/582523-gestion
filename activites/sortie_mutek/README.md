@@ -74,8 +74,9 @@ par les étudiant·e·s de l'École des arts visuels et médiatiques de l'UQAM
 * L'aube des étoiles par Alaë Brown, Julien Hétu, Tician Lagier et Vickie Tsaï;
 * Croissance par Alie Hébert, Éloïse Loriot-Noël et Llewellyn-Wayland Demiroglu;
 * Petit manifeste de l'errance par Allyson Belleau, Mia De Bonis, Zélie Delespierre et Elvis Rallon
+
  
-#### 22 : Digi-Deuil Distribution 
+#### 22 : Digi-Deuil Distribution
 par [aenl](http://www.aenl.net/) (aka Anna Eyler et Nicolas Lapointe)
 
 #### 23 : Promenades Cyclo_MAPP 
