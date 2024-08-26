@@ -1,2 +1,1 @@
-
-* [Sortie Mutek](sortie_mutek)
+* [Sortie Mutek](sortie_mutek/)
