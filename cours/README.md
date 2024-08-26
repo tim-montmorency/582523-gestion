@@ -6,7 +6,8 @@
 
 ### Activités
 
-* Sortie Mutek? 
+* [Sortie Mutek](/activites/sortie_mutek/)
+  
 
 
 ## 2 - 09/04

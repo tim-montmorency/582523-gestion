@@ -3,4 +3,5 @@
 * [Évaluations](/evaluations/)
 * [Médiagraphie ](/mediagraphie/)
 * [PIEA](/piea/)
-
+* [Activités](/activites/)
+    * [Sortie Mutek](/activites/sortie_mutek/)

@@ -9,6 +9,8 @@
 
 ### Installations 
 
+Nous n'aurons pas le temps de tout voir, mais voici l'ensemble des installations.
+
 #### 1 : PHOTOMATON 2049
 par [Moment Factory](https://momentfactory.com/home)
 
@@ -80,7 +82,7 @@ par [aenl](http://www.aenl.net/) (aka Anna Eyler et Nicolas Lapointe)
 par Isotone, BunBun et Karl Skene [mappMTL](https://www.mappmtl.com/en)
 
 
-### Installation sur laquelle j'ai oeuvré
+### Installation sur laquelle j'ai participé
 
 #### Inflorescence 
 
@@ -90,7 +92,7 @@ par Isotone, BunBun et Karl Skene [mappMTL](https://www.mappmtl.com/en)
 
 #### Documentation technique
 
-* https://_inflorescence.gitlab.io/mutek2024/#/
+* [https://_inflorescence.gitlab.io/mutek2024](https://_inflorescence.gitlab.io/mutek2024)
 
 #### Documentation artistique
 
@@ -100,23 +102,30 @@ par Isotone, BunBun et Karl Skene [mappMTL](https://www.mappmtl.com/en)
 
 ## Logisitique 
 
-C'est confirmé pour la sortie au village numérique Mutek https://village-numerique.mutek.org/  aujourd'hui.
- 
-Logistique : 
 L'activité est gratuite, mais il faut payer le métro 
-Prévoir deux titres de transport, un aller et un retour soit ~10$
-1er point de rencontre, en classe au début du cours 
-AM = MON-B3358 : 10:45 
-PM = MON-B1387  : 14:25 
-2e point de rencontre, aux guichets du métro Montmorency
-AM = 10:55
-PM = 14:35
-3e point de rencontre, devant l'Agora du Cœur des sciences (métro place des arts, sortie édicule B, UQAM, Pavillon Kennedy  https://maps.app.goo.gl/NdcaG8GxDrxBtw5DA )
-AM = 11:35
-PM = 15:15
-Retour, on vise embarquer dans le métro et revenir avant la fin du cours
-AM = ~12:45
-PM = ~ 16:25
+* Prévoir deux titres de transport, un aller et un retour soit ~10$
+
+
+### 1er point de rencontre, en classe au début du cours 
+
+* AM = MON-B3358 : 10:45 
+* PM = MON-B1387  : 14:25 
+
+### 2e point de rencontre, aux guichets du métro Montmorency
+* AM = 10:55
+* PM = 14:35
+
+### 3e point de rencontre, devant l'Agora du Cœur des sciences 
+* (métro place des arts, sortie édicule B, UQAM, Pavillon Kennedy  https://maps.app.goo.gl/NdcaG8GxDrxBtw5DA )
+
+* AM = 11:35
+* PM = 15:15
+
+
+### Retour, on vise embarquer dans le métro et revenir avant la fin du cours
+
+* AM = ~ 12:45
+* PM = ~ 16:25
 
 ceux qui veulent se rendre directement écrivez le dans cette conversation, ceux qui ont des questions personnelles ou d'autres formes d'enjeux, écrivez-moi directement. 
  
