@@ -1,3 +1,6 @@
 # Contenus
 
-* [git](/contenus/git/)
+<!-- generate -->
+
+* [ GIT](contenus/git/)
+

@@ -1,6 +1,6 @@
 * [Activités](activites/)
-  * [Git, Github et Docsify](activites/intro_repoDocsify/)
-  * [Sortie Mutek ](activites/sortie_mutek/)
+  * [Sortie Mutek ](activites/1_sortie_mutek/)
+  * [Git, Github et Docsify](activites/2_repoDocsify/)
 * [Contenus](contenus/)
   * [ GIT](contenus/git/)
 * [Cours ](cours/)
