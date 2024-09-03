@@ -1,5 +1,7 @@
-<!-- generate -->
 # Activités
 
-* [Sortie Mutek](/activites/sortie_mutek/)
-* [Introduction repo->docsify](/activites/intro_repoDocsify/)
+<!-- generate -->
+
+* [Git, Github et Docsify](activites/intro_repoDocsify/)
+* [Sortie Mutek ](activites/sortie_mutek/)
+

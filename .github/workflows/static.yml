@@ -31,6 +31,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Run Docsify Sidebar and README Generator
+        run: bash ./docsify-sidebar-and-readme-generator.sh
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

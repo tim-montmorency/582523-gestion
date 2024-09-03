@@ -1,5 +1,5 @@
 * [Activités](activites/)
-  * [intro_repoDocsify](activites/intro_repoDocsify/)
+  * [Git, Github et Docsify](activites/intro_repoDocsify/)
   * [Sortie Mutek ](activites/sortie_mutek/)
 * [Contenus](contenus/)
   * [ GIT](contenus/git/)
