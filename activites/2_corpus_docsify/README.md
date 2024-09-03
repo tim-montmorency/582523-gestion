@@ -1,8 +1,17 @@
-# Présenter une œuvres multimédia
+# Présenter l'œuvres multimédia
 
 ## Description
 
-Produire un README.md c
+### 
+
+* Présenter une œuvres multimédia 
+    * Qui (auteur, équipe)
+    * Quand ()
+    * Où (contexte de présentation)
+    * Quoi
+    * Comment (optionnel) 
+        
+* Utiliser git, markdown, github, docsify comme support de présentation
 
 ## Contenus associées
 

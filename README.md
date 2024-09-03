@@ -1,6 +1,6 @@
 # Gestion de projets multimédia 
 
-582 523 MO Gestion de projet multimédia    
+[582 523 MO Gestion de projet multimédia](https://github.com/tim-montmorency/582523-gestion)
 
 [TOC](_sidebar.md ":include")
 
@@ -14,6 +14,6 @@
 
 [PIEA](/piea/README.md ":include")
 
-
 [Contenus](/contenus/README.md ":include")
+
 [Activités](/activites/README.md ":include")
