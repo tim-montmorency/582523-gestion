@@ -59,3 +59,7 @@ Samuel St-Aubin. « Artiste En Nouveaux Médias ». Consulté le 15 janvier 
 Shiffman, Daniel. Learning Processing: A Beginner’s Guide to Programming Images, Animation, and Interaction. 2 edition. Amsterdam: Morgan Kaufmann, 2015.  
 
  
+
+
+
+

@@ -265,3 +265,8 @@ L'étudiant·e concevra et présentera une expérience multimédia complète, in
 * Analyser la conception d’une expérience multimédia.
 * Planifier la stratégie d’intégration d’une expérience multimédia.
 * Vérifier la faisabilité technique d’une expérience multimédia.
+
+
+
+
+

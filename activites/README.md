@@ -1,7 +1,7 @@
 # Activités
 
-<!-- generate -->
+<!-- generateSubNav -->
 
 * [Sortie Mutek ](activites/1_sortie_mutek/)
-* [Git, Github et Docsify](activites/2_repoDocsify/)
+* [Présenter une œuvres multimédia](activites/2_corpus_docsify/)
 

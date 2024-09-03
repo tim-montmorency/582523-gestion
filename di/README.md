@@ -38,3 +38,8 @@ Le cours gestion de projet multimédia vise à évaluer la faisabilité techniqu
 ## Contexte particulier d’apprentissage
 
 En laboratoire informatique
+
+
+
+
+

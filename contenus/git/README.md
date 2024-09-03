@@ -66,3 +66,5 @@ Voici un aperçu des commandes Git essentielles pour débuter :
 ## Conclusion
 
 Maîtriser Git est essentiel pour tout intégrateur multimédia travaillant sur des projets collaboratifs. En comprenant les concepts clés, la philosophie de Git, et en utilisant efficacement les commandes de base, vous serez en mesure de gérer vos projets de manière professionnelle et collaborative. Git n'est pas seulement un outil technique, mais aussi une méthodologie de travail qui favorise la transparence, la coopération, et l'efficacité dans le développement multimédia.
+
+> [ GIT : entrée pédagogique dans un manuel technique pour intégrateur multimédia via chatGPT4o](https://chatgpt.com/share/aec11899-362a-4cbb-a84a-b4b88c417d2c)

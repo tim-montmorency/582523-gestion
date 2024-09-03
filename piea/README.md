@@ -56,3 +56,7 @@ Pour les stages, les 225 heures de présence sont nécessaires pour la réussite
 
 Les étudiantes et étudiants peuvent rencontrer le professeur pour discuter des forces et faiblesses d’un travail corrigé 48 heures après sa remise.
 La professeure ou le professeur peut être joint par courriel ou par Teams. Teams est privilégié et plus rapide. Comptez un délai de deux journées ouvrables pour obtenir un retour, sauf lors de cas exceptionnels.
+
+
+
+
