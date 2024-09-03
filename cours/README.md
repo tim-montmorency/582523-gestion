@@ -1,3 +1,5 @@
+# Cours 
+
 ## 1 - 08/26
 
 ### Préparation
@@ -8,8 +10,6 @@
 
 * [Sortie Mutek](/activites/sortie_mutek/)
   
-
-
 ## 2 - 09/04
 
 ### Préparation

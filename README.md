@@ -15,3 +15,5 @@
 [PIEA](/piea/README.md ":include")
 
 
+[Contenus](/contenus/README.md ":include")
+[Activités](/activites/README.md ":include")
