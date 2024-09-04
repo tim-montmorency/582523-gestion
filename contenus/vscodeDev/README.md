@@ -17,3 +17,7 @@ https://code.visualstudio.com/docs/editor/codebasics
 
 https://code.visualstudio.com/docs/sourcecontrol/overview
 
+
+## Exercice
+
+Modifier un du code source en ligne avec l'éditeur 

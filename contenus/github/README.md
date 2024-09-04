@@ -2,6 +2,6 @@
 
 <!-- generateSubNav -->
 
-* [Publication Github](contenus/github/publication/)
-* [Intégration Continue](contenus/github/scriptCI/)
+* [Publication de Pages GitHub](/contenus//github/pages/README.md)
+* [Intégration Continue](/contenus//github/scriptCI/README.md)
 

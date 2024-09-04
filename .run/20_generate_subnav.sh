@@ -47,11 +47,12 @@ generate_readme_in_subfolders() {
                 subdir_title="$base_dir"
             fi
 
-            local clean_subdir_path
-            clean_subdir_path=$(echo "$subdir" | sed 's://:/:g')
+            # Remove trailing slash from parent_dir if it exists, then construct the path
+            local clean_parent_dir="${parent_dir%/}"
+            local absolute_path="$clean_parent_dir/$base_dir/README.md"
 
-            new_content+="* [$subdir_title]($clean_subdir_path)\n"
-            echo "Generated link for $clean_subdir_path with title '$subdir_title'"
+            new_content+="* [$subdir_title](/$absolute_path)\n"
+            echo "Generated link for /$absolute_path with title '$subdir_title'"
         fi
     done
 
