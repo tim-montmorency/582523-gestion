@@ -18,15 +18,16 @@
 
 ### Contenus
 
-* Conception d’un projet multimédia
-* Collaboration à l’échange d’idées
-* Proposition artistique originale et recherchée 
-* Objectifs et structure du scénario
-* Documentation de l’analyse du projet
-* Éléments du design et de la navigation
+* Conception d’un projet multimédia  [exemple:  Inflorescences](https://_inflorescence.gitlab.io/mutek2024/#/annexes/venues/)
+* Proposition artistique originale et recherchée [inspiration village numérique?](/activites/1_sortie_mutek/)
+* Collaboration à l’échange d’idées [via Git](/contenus/git/)
+* Objectifs et structure du scénario [en Markdown](/contenus/markdown/)
+* Documentation de l’analyse du projet [github page](/contenus/github/pages/)
+* Éléments du design et de la navigation [Docsify](/contenus/docsify/)
 
 ### Activités
 
+* [Corpus Multimédia](/activites/2_corpus_multimedia/README.md)
 * **EF-1 :** Corpus d'œuvres multimédia
 
 

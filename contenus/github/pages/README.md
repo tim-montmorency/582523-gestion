@@ -45,5 +45,10 @@ Committer l'action suggérée
 
 Une fois les changements appliqués, GitHub générera une URL pour votre site (par exemple, https://username.github.io/repository-name), qui sera automatiquement mis à jour chaque fois que vous pousserez des modifications au dépôt.
 
+### Afficher un lien vers la page  
 
+![Params Page](repo-parametre.png)
+
+
+![Lien vers la page](page-deploiement-lien-dans-repository.png)
 

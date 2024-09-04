@@ -51,7 +51,7 @@ Livrable: URL du document en ligne
 * Fonctionnement : Expliquez comment cette composante centrale opère dans l'œuvre. Comment contribue-t-elle à l'expérience globale ? Quel rôle joue-t-elle dans l'engagement du public ou dans l'atteinte des objectifs de l'œuvre ?
 * Impact : Discutez de l'impact de cette composante sur la réception de l'œuvre. En quoi cet élément distingue-t-il l'œuvre dans le paysage multimédia ?
 
-#### Appréciation personnelle 
+#### Appréciation et commentaire personnel 
 
 ( Pourquoi avoir choisi cette oeuvre) 
 
@@ -63,7 +63,9 @@ Livrable: URL du document en ligne
 * [Docsify](/contenus/docsify/)
 * [vscode.dev](/contenus/vscodeDev/)
 
+## Modèle de page Docsify à personaliser
 
+* 
 
 ## Évaluations associées
 
