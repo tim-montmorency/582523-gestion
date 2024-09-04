@@ -21,3 +21,6 @@ https://code.visualstudio.com/docs/sourcecontrol/overview
 ## Exercice
 
 Modifier un du code source en ligne avec l'éditeur 
+
+## Un test pour valider le fonctionnement 
+
