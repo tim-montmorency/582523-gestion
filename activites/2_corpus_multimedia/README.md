@@ -65,7 +65,7 @@ Livrable: URL du document en ligne
 
 ## Modèle de page Docsify à personaliser
 
-* 
+* https://github.com/gllmAR/docsify-modele-classique
 
 ## Évaluations associées
 
