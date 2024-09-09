@@ -15,6 +15,7 @@ Le `Markdown` est un langage de balisage simple permettant de formater du texte 
 ## Survol des balise
 
 * https://commonmark.org/help/
+* https://www.markdownguide.org/basic-syntax/
 
 ## Tutoriel interactif
 
