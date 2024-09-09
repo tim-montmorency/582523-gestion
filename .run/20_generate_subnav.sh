@@ -2,6 +2,9 @@
 
 EXCLUDED_DIRS=(".git" "node_modules" "__pycache__" ".vscode")
 
+# Get the current working directory (root of the project)
+ROOT_DIR=$(pwd)
+
 # Function to extract the title from README.md
 get_title_from_readme() {
     local readme_path="$1"
@@ -39,20 +42,30 @@ generate_readme_in_subfolders() {
             local subdir_readme="$subdir/README.md"
             local subdir_title
 
+            # Only generate a link if the subdirectory contains a README.md
             if [[ -f "$subdir_readme" ]]; then
                 subdir_title=$(get_title_from_readme "$subdir_readme")
+
+                if [[ -z "$subdir_title" ]]; then
+                    subdir_title="$base_dir"
+                fi
+
+                # Clean up paths to avoid double slashes
+                local clean_parent_dir="${parent_dir%/}"
+                local clean_base_dir="${base_dir%/}"
+
+                # Combine paths and ensure no double slashes
+                local absolute_path="$clean_parent_dir/$clean_base_dir/README.md"
+                absolute_path="/${absolute_path#"$ROOT_DIR/"}"  # Remove root directory and ensure no leading //
+
+                # Replace any instances of double slashes (except the leading slash)
+                absolute_path=$(echo "$absolute_path" | sed 's|//|/|g')
+
+                new_content+="* [$subdir_title]($absolute_path)\n"
+                echo "Generated link for $absolute_path with title '$subdir_title'"
+            else
+                echo "Skipped directory (no README.md): $subdir"
             fi
-
-            if [[ -z "$subdir_title" ]]; then
-                subdir_title="$base_dir"
-            fi
-
-            # Remove trailing slash from parent_dir if it exists, then construct the path
-            local clean_parent_dir="${parent_dir%/}"
-            local absolute_path="$clean_parent_dir/$base_dir/README.md"
-
-            new_content+="* [$subdir_title](/$absolute_path)\n"
-            echo "Generated link for /$absolute_path with title '$subdir_title'"
         fi
     done
 
