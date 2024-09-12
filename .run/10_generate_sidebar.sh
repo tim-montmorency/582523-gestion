@@ -32,9 +32,11 @@ generate_sidebar() {
         if [[ -z "$title" ]]; then
             title=$(basename "$dir_path")
         fi
-        # Remove any double slashes from the path
+        # Remove any double slashes from the path and add leading slash for absolute path
         local clean_path
         clean_path=$(echo "$dir_path/" | sed 's://:/:g')
+        clean_path="/${clean_path}"  # Add leading slash for absolute path
+
         echo "$indent* [$title]($clean_path)" >> "$SIDEBAR_FILE"
         echo "Added: $clean_path with title '$title'"
 
@@ -92,6 +94,7 @@ generate_readme_in_subfolders() {
 
             local clean_subdir_path
             clean_subdir_path=$(echo "$subdir" | sed 's://:/:g')
+            clean_subdir_path="/${clean_subdir_path}"  # Add leading slash for absolute path
 
             new_content+="* [$subdir_title]($clean_subdir_path)\n"
             echo "Generated link for $clean_subdir_path with title '$subdir_title'"
