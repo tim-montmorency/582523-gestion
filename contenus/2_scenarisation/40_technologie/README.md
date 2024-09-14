@@ -1,7 +1,3 @@
-Voici la version complétée de l'entrée pédagogique dans le manuel d'intégration multimédia sur le sujet des technologies :
-
----
-
 # Technologies
 
 Appréhender les composantes matérielles et logicielles nécessaires pour concevoir des expériences multimédias interactives, et comprendre leur rôle dans la mise en œuvre d'installations immersives.
@@ -203,7 +199,3 @@ Les logiciels comme **TouchDesigner** ou **MAX/MSP** permettent de générer du 
 ## Conclusion 
 
 L'intégration efficace des composants matériels et logiciels est essentielle pour la création d'expériences multimédias interactives engageantes. Chaque élément technologique joue un rôle clé dans la fluidité des interactions entre les utilisateurs et l’installation, rendant l'expérience immersive, intuitive et captivante.
-
---- 
-
-Cette entrée couvre de manière exhaustive les technologies et leur rôle dans les installations multimédias interactives.
