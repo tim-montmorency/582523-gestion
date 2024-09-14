@@ -57,11 +57,11 @@ Livrable: URL du document en ligne
 
 ## Contenus associées
 
-* [Git](/contenus/git/)
-* [Github page](/contenus/github/pages/)
-* [Markdown](/contenus/markdown/)
-* [Docsify](/contenus/docsify/)
-* [vscode.dev](/contenus/vscodeDev/)
+* [Git](/contenus/1_presentation/git/)
+* [Github page](/contenus/1_presentation/github/pages/)
+* [Markdown](/contenus/1_presentation/markdown/)
+* [Docsify](/contenus/1_presentation/docsify/)
+* [vscode.dev](/contenus/1_presentation/vscodeDev/)
 
 ## Modèle de page Docsify à personaliser
 

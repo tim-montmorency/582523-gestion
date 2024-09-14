@@ -8,7 +8,7 @@
 
 ### Activités
 
-* [Sortie Mutek](/activites/1_sortie_mutek/)
+* [Sortie Mutek](/activites/0_sortie_mutek/)
   
 ## 2 - 09/04
 
@@ -19,15 +19,15 @@
 ### Contenus
 
 * Conception d’un projet multimédia  [exemple:  Inflorescences](https://_inflorescence.gitlab.io/mutek2024/#/annexes/venues/)
-* Proposition artistique originale et recherchée [inspiration village numérique?](/activites/1_sortie_mutek/)
-* Collaboration à l’échange d’idées [via Git](/contenus/git/)
-* Objectifs et structure du scénario [en Markdown](/contenus/markdown/)
-* Documentation de l’analyse du projet [github page](/contenus/github/pages/)
-* Éléments du design et de la navigation [Docsify](/contenus/docsify/)
+* Proposition artistique originale et recherchée [inspiration village numérique?](/activites/0_sortie_mutek/)
+* Collaboration à l’échange d’idées [via Git](/contenus/1_presentation/git/)
+* Objectifs et structure du scénario [en Markdown](/contenus/1_presentation/markdown/)
+* Documentation de l’analyse du projet [github page](/contenus/1_presentation/github/pages/)
+* Éléments du design et de la navigation [Docsify](/contenus/1_presentation/docsify/)
 
 ### Activités
 
-* [Corpus Multimédia](/activites/2_corpus_multimedia/README.md)
+* [Corpus Multimédia](/activites/1_corpus_multimedia/README.md)
 * **EF-1 :** Corpus d'œuvres multimédia
 
 

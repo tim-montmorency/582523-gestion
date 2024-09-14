@@ -25,7 +25,7 @@ L'étudiant·e réalisera une recherche approfondie sur des œuvres multimédia 
 * Présenter les résultats de la recherche lors d'une présentation orale et remettre un document synthétique en ligne.
 
 ### EF-2  
-#### Titre : Conceptualisation
+#### Titre : Scénarisation
 #### Date : 09/23
 #### Séance : 5
 
@@ -146,7 +146,7 @@ L'étudiant·e présentera un corpus d'œuvres multimédia en mettant en avant u
 * Analyser la conception d’une expérience multimédia
 
 ### ES-2  
-#### Titre : Conceptualisation
+#### Titre : Scénarisation
 #### Date : 09/30
 #### Séance : 6
 #### Pondération : 15%

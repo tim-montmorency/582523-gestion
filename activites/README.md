@@ -2,7 +2,7 @@
 
 <!-- generateSubNav -->
 
-* [Sortie Mutek ](/activites/1_sortie_mutek/README.md)
-* [Présenter l'œuvres multimédia](/activites/2_corpus_multimedia/README.md)
-* [Conceptualisation](/activites/3_conceptualisation/README.md)
+* [Sortie Mutek ](/activites/0_sortie_mutek/README.md)
+* [Présenter l'œuvres multimédia](/activites/1_corpus_multimedia/README.md)
+* [Scénariser](/activites/2_scenariser/README.md)
 
