@@ -2,30 +2,32 @@
 
 ```mermaid
 mindmap
-  root((Processus de scénarisation))
+  root((Scénarisation))
     Idée
       Concept
-      Objectifs
+      Motivations
     Scénario
-      Histoire
+      Naratif
       Interaction
       Expérience utilisateur
     Moodboard
       Ambiance visuelle
-      Références artistiques
       Palette de couleurs
+      Références artistiques
+      Échantillons sonores
     Technologie
       Matériel
-        Capteurs
+        Aquisition
         Processeurs
-        Affichage
+        Diffusion
       Logiciel
-        Programme interactif
         Algorithmes de détection
-        Média (vidéo, son)
+        Logique interactive
+        Manimulation multimédia
+        Protocoles de communication
     Simulation
-      Prototype
-      Tests utilisateurs
+      Échelle
+      Espace
       Ajustements
 ```
 

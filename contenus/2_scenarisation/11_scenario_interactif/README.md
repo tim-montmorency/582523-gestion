@@ -1,4 +1,4 @@
-# Scénario
+# Scénario interactif
 
 La scénarisation de l'expérience interactive est une étape fondamentale dans la conception multimédias. Elle vise à définir le parcours utilisateur en anticipant ses besoins, ses attentes et ses interactions avec l'objet. Cette démarche permet de créer une expérience personnalisée et engageante.
 

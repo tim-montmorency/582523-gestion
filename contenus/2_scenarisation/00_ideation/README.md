@@ -2,7 +2,7 @@
 
 L’objectif de cette section est d’apprendre à l’apprenant à structurer et à communiquer efficacement un concept ou une idée dans le cadre de la scénarisation multimédia. Il s'agit de développer une vision claire et convaincante tout en s'assurant que les parties prenantes comprennent et adhèrent au concept.
 
-## Stratégies de communication
+## Communiquer une idée
 
 ### Clarification du concept 
 
@@ -50,19 +50,28 @@ Utiliser le storyboard pour mettre en scène l’évolution de l’idée dans un
 Inviter les pairs ou les mentors à donner un retour d’information structuré sur le concept. Cela permet d’identifier les zones floues ou qui méritent d’être renforcées avant la présentation finale.
 
 
-### Techniques de présentation
+## Motivations
 
-#### Structuration de la présentation 
-    
-##### Introduction 
+Dans le cadre de la scénarisation multimédia, il est crucial d'identifier les motivations derrière le concept. 
+Comprendre le *pourquoi* de l'idée permet non seulement de clarifier son objectif, mais aussi de rendre la communication plus impactante. 
+Cette étape aide à aligner les attentes des parties prenantes et à renforcer l'adhésion au projet.
 
-Commencer par introduire le problème ou le besoin auquel répond le concept. Ensuite, énoncer clairement l’idée et son objectif.
+### Identifier les motivations
 
-##### Développement 
+#### Compréhension des besoins
 
-Expliquer comment l'idée sera mise en œuvre, quels seront les principaux éléments visuels ou interactifs, et comment elle répondra aux besoins identifiés.
+Avant de développer un concept, il est essentiel de comprendre les besoins ou les problématiques que l'idée tente de résoudre. Cela permet de s'assurer que l'idée est pertinente et répond à une demande précise.
 
-##### Conclusion 
+#### Motivation personnelle ou collective
 
-Terminer avec un rappel des points forts du concept et une ouverture sur des questions ou des perspectives d'évolution.
+Analyser les motivations internes (liées à la vision créative de l'équipe) ainsi que les motivations externes (les attentes du client ou du public cible). Cela aide à justifier le concept et à lui donner du sens dans un contexte plus large.
 
+### Intégration des motivations dans la communication
+
+#### Rendre l'idée pertinente
+
+Lorsque les motivations sont bien comprises, il devient plus facile de communiquer en montrant comment l'idée s'inscrit dans un objectif plus grand. Cela donne du poids à l'argumentaire, tout en facilitant l'adhésion des parties prenantes.
+
+#### Alignement stratégique
+
+S'assurer que les motivations derrière le concept sont alignées avec la stratégie globale du projet ou de l'organisation. Cela renforce la cohérence du discours et augmente les chances de succès lors de la présentation.

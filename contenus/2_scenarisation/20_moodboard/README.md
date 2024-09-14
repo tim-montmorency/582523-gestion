@@ -1,6 +1,7 @@
 # Moodboard
 
 ## Planche de tendances (moodboard) 
+
 La planche de tendances, souvent appelée **moodboard**, est un outil visuel qui rassemble des images, des textures, des couleurs, des matériaux, et des inspirations visuelles pour définir l'ambiance et l'esthétique d'un projet. Dans le cadre d'une **installation multimédia interactive**, elle permet de formaliser une vision créative en la rendant plus tangible et communicable auprès des membres de l'équipe.
 
 ## Rôle de la planche de tendances 
