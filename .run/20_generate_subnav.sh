@@ -55,7 +55,7 @@ generate_readme_in_subfolders() {
                 local clean_base_dir="${base_dir%/}"
 
                 # Combine paths and ensure no double slashes
-                local absolute_path="$clean_parent_dir/$clean_base_dir/README.md"
+                local absolute_path="$clean_parent_dir/$clean_base_dir/"
                 absolute_path="/${absolute_path#"$ROOT_DIR/"}"  # Remove root directory and ensure no leading //
 
                 # Replace any instances of double slashes (except the leading slash)
