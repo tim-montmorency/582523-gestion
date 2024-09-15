@@ -1,4 +1,4 @@
-# Scénariser
+# Scénariser l'interactivité
 
 ```mermaid
 mindmap

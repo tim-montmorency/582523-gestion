@@ -55,13 +55,6 @@ Livrable: URL du document en ligne
 
 ( Pourquoi avoir choisi cette oeuvre) 
 
-## Contenus associées
-
-* [Git](/contenus/1_presentation/git/)
-* [Github page](/contenus/1_presentation/github/pages/)
-* [Markdown](/contenus/1_presentation/markdown/)
-* [Docsify](/contenus/1_presentation/docsify/)
-* [vscode.dev](/contenus/1_presentation/vscodeDev/)
 
 ## Modèle de page Docsify à personaliser
 
@@ -71,4 +64,11 @@ Livrable: URL du document en ligne
 
 * [Évaluation formative 1](/evaluations/?id=ef-1)
 * [Évaluation sommative 1](/evaluations/?id=es-1)
+
+
+## Contenus associées
+
+[Contenus Scenarisation](../../contenus/1_presentation/README.md ":include")
+
+
 

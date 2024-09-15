@@ -13,6 +13,6 @@
 * [Nomenclature](/contenus/2_scenarisation/33_nomenclature/README.md)
 * [Technologies](/contenus/2_scenarisation/40_technologie/README.md)
 * [Simulation ](/contenus/2_scenarisation/50_simulation/README.md)
-* [Draw.io](/contenus/2_scenarisation/drawio/README.md)
-* [Mermaid](/contenus/2_scenarisation/mermaid/README.md)
+* [Mermaid](/contenus/2_scenarisation/80_mermaid/README.md)
+* [Draw.io](/contenus/2_scenarisation/81_drawio/README.md)
 

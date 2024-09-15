@@ -51,3 +51,18 @@ L’un des parallèles clés entre ces deux types de scénarios réside dans leu
 ## Récapitulatif
 
 Le scénario au cinéma est un outil incontournable qui structure la narration tout en fournissant des informations essentielles pour tous les départements techniques. Il permet de traduire la vision créative du réalisateur en une production concrète, coordonnée et bien planifiée. Cette même importance sera transposée dans le cadre du **scénario interactif**, où chaque expert devra se référer au scénario pour comprendre les interactions, les besoins techniques et la progression de l'expérience utilisateur.
+
+
+## Exemples 
+
+[Les-Hirondelles-de-Kaboul](https://lecteursanonymes.org/wp-content/uploads/2020/02/Les-Hirondelles-de-Kaboul-1.pdf)
+[Citizen Kane](https://www.dailyscript.com/scripts/Citizen%20Kane.txt)
+
+https://lecteursanonymes.org/scenario/
+
+https://www.simplyscripts.com/movie-scripts.html
+
+
+## Le séquencier
+
+http://www.gindoucinema.org/images/Gout_des_Autres/pdf/sequencier_Terre.pdf

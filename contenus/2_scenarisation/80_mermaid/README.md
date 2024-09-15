@@ -15,6 +15,7 @@ Mermaid est une solution pratique et efficace pour intégrer des diagrammes dans
 ### Support Natif dans GitHub
    Depuis que GitHub prend en charge nativement Mermaid, il est possible de créer des diagrammes Mermaid dans des fichiers Markdown et de les voir instantanément rendus lors de la publication. Cela supprime le besoin d'outils tiers pour visualiser les diagrammes et permet une intégration plus fluide dans les projets de documentation.
 
+
 ### Simplicité de Mise à Jour
    Les diagrammes Mermaid sont générés à partir de texte brut. Cela signifie qu'ils peuvent être facilement modifiés comme n'importe quel autre contenu texte dans un fichier Markdown. En utilisant Git, chaque changement apporté au diagramme est suivi de manière transparente, et plusieurs contributeurs peuvent collaborer efficacement.
 
