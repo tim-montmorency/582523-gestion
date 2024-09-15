@@ -63,3 +63,5 @@ Cette structure permet de :
 - **/medias** : organiser les différents types de contenus utilisés dans l’installation.
 - **/interactions** : regrouper les fichiers liés aux dispositifs interactifs.
 - **/scripts** : centraliser les scripts et les déclencheurs de l’installation.
+
+
