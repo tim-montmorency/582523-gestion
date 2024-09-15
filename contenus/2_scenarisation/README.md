@@ -1,16 +1,17 @@
 # Scénariser
 
 <!-- generateSubNav -->
-* [Communiquer une idée](/contenus/2_scenarisation/00_ideation/)
-* [Scénario cinématographique](/contenus/2_scenarisation/10_scenario_cinema/)
-* [Scénario interactif](/contenus/2_scenarisation/11_scenario_interactif/)
-* [Le narratif dans l'interactif](/contenus/2_scenarisation/12_scenario_narratif/)
-* [Ambiances](/contenus/2_scenarisation/20_moodboard/)
-* [Scénarimage](/contenus/2_scenarisation/30_scenarimage/)
-* [Inventaire multimédia](/contenus/2_scenarisation/31_inventaire_multimedia/)
-* [Arborescence](/contenus/2_scenarisation/32_arborescence/)
-* [Nomenclature](/contenus/2_scenarisation/33_nomenclature/)
+* [Idée](/contenus/2_scenarisation/10_idee/)
+    * [Communiquer une idée](/contenus/2_scenarisation/10_idee/10_concept/)
+    * [Objectifs](/contenus/2_scenarisation/10_idee/20_objectifs/)
+    * [Motivations](/contenus/2_scenarisation/10_idee/30_motivations/)
+* [Scénario](/contenus/2_scenarisation/20_scenario/)
+    * [Scénario cinématographique](/contenus/2_scenarisation/20_scenario/10_cinema/)
+    * [Scénario interactif](/contenus/2_scenarisation/20_scenario/20_interactif/)
+    * [Le narratif dans l'interactif](/contenus/2_scenarisation/20_scenario/30_narratif/)
+* [Ambiances](/contenus/2_scenarisation/30_ambiances/)
 * [Technologies](/contenus/2_scenarisation/40_technologie/)
-* [Mermaid](/contenus/2_scenarisation/80_mermaid/)
-* [Draw.io](/contenus/2_scenarisation/81_drawio/)
+* [Outils](/contenus/2_scenarisation/90_outils/)
+    * [Mermaid](/contenus/2_scenarisation/90_outils/80_mermaid/)
+    * [Draw.io](/contenus/2_scenarisation/90_outils/81_drawio/)
 <!-- generateSubNavEnd -->
