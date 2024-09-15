@@ -1,5 +1,4 @@
 # Contenus
-test après 
 <!-- generateSubNav -->
 * [Présenter](/contenus/1_presentation/)
     * [Docsify](/contenus/1_presentation/docsify/)
@@ -23,5 +22,3 @@ test après
     * [Mermaid](/contenus/2_scenarisation/80_mermaid/)
     * [Draw.io](/contenus/2_scenarisation/81_drawio/)
 <!-- generateSubNavEnd -->
-
-test avant
