@@ -1,7 +1,27 @@
 # Contenus
-
+test après 
 <!-- generateSubNav -->
-
 * [Présenter](/contenus/1_presentation/)
+    * [Docsify](/contenus/1_presentation/docsify/)
+    * [GIT](/contenus/1_presentation/git/)
+    * [Github](/contenus/1_presentation/github/)
+        * [Publication de Pages GitHub](/contenus/1_presentation/github/pages/)
+        * [Intégration Continue](/contenus/1_presentation/github/scriptCI/)
+    * [Markdown](/contenus/1_presentation/markdown/)
+    * [vscode.dev](/contenus/1_presentation/vscodeDev/)
 * [Scénariser](/contenus/2_scenarisation/)
+    * [Communiquer une idée](/contenus/2_scenarisation/00_ideation/)
+    * [Scénario cinématographique](/contenus/2_scenarisation/10_scenario_cinema/)
+    * [Scénario interactif](/contenus/2_scenarisation/11_scenario_interactif/)
+    * [Le narratif dans l'interactif](/contenus/2_scenarisation/12_scenario_narratif/)
+    * [Ambiances](/contenus/2_scenarisation/20_moodboard/)
+    * [Scénarimage](/contenus/2_scenarisation/30_scenarimage/)
+    * [Inventaire multimédia](/contenus/2_scenarisation/31_inventaire_multimedia/)
+    * [Arborescence](/contenus/2_scenarisation/32_arborescence/)
+    * [Nomenclature](/contenus/2_scenarisation/33_nomenclature/)
+    * [Technologies](/contenus/2_scenarisation/40_technologie/)
+    * [Mermaid](/contenus/2_scenarisation/80_mermaid/)
+    * [Draw.io](/contenus/2_scenarisation/81_drawio/)
+<!-- generateSubNavEnd -->
 
+test avant

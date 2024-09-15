@@ -1,7 +1,6 @@
 # Scénariser
 
 <!-- generateSubNav -->
-
 * [Communiquer une idée](/contenus/2_scenarisation/00_ideation/)
 * [Scénario cinématographique](/contenus/2_scenarisation/10_scenario_cinema/)
 * [Scénario interactif](/contenus/2_scenarisation/11_scenario_interactif/)
@@ -14,4 +13,4 @@
 * [Technologies](/contenus/2_scenarisation/40_technologie/)
 * [Mermaid](/contenus/2_scenarisation/80_mermaid/)
 * [Draw.io](/contenus/2_scenarisation/81_drawio/)
-
+<!-- generateSubNavEnd -->
