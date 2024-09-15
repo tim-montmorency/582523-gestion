@@ -38,8 +38,11 @@ L'étudiant·e proposera une idée originale pour une œuvre multimédia hypoth�
 ##### Élaboration de la proposition
 * Développer une idée originale pour une œuvre multimédia hypothétique.
 
+##### Rédaction d'un scénario interactif
+* Rédiger un scénario interactif cohérant avec le projet multimédia.
+
 ##### Définition des objectifs artistiques
-* Définir clairement les objectifs artistiques et les concepts principaux de la proposition.
+* Définir les ambiances de la proposition.
 
 ##### Identification des éléments techniques
 * Identifier les outils et technologies qui pourraient être utilisés pour réaliser cette proposition.
@@ -163,11 +166,11 @@ L'étudiant·e conceptualisera un projet multimédia en rédigeant un scénario 
 #### Savoirs essentiels / principaux critères d’évaluation
 
 * Proposition artistique originale et recherchée 
-* Rédaction du scénario
-* Scénarimage
-* Inventaire des médias prévus au scénario et au scénarimage
-* Numérotation des séquences et médias associés
+* Rédaction du scénario interactif
+* Objectifs et structure du scénario
 * Planification de la navigation
+* Fonctionnalités et technologies requises
+
 
 #### Intégration des apprentissages
 
@@ -191,14 +194,17 @@ L'étudiant·e planifiera en détail la production de son projet multimédia, en
 #### Savoirs essentiels / principaux critères d’évaluation
 
 * Spécifications et contraintes techniques du projet
+* Scénarimage
+* Inventaire des médias prévus au scénario et au scénarimage
+* Numérotation des séquences et médias associés
 * Performances techniques en fonction des exigences du projet
 * Planification précise de la production (étapes de réalisation, allocations des ressources, plantation technique)
 * Choix de logiciels, équipement et techniques en fonction des exigences du projet
 * Organigramme de la programmation
-* Fonctionnalités et technologies requises
 * Identification des ressources humaines disponibles (technicien·ne en son, intégrateur·rice, programmeur·euse, concepteur·rice, développeur·euse)
 * Identification de ressources matérielles disponibles (ordinateurs, studio, logiciels, médias, casques virtuels)
 * Stratégie de montage
+
 
 #### Intégration des apprentissages
 
