@@ -106,7 +106,7 @@ graph TD;
     I --> K[Terminer le niveau];
     K --> L{Fin du jeu ?};
     L -->|Oui| M[Écran de fin];
-    L -->|Non| F;
+    L -->B;
 
 ```
 
@@ -207,9 +207,10 @@ graph TD;
     H -->|Oui| I[Retour à veille];
     H -->|Non| C;
 
-Installation interactive présenté dans un musées, une exposition ou des événement.
 
 ```
+
+Installation interactive présenté dans un musées, une exposition ou des événement.
 
 ### Réalité Virtuelle (VR) 
 
@@ -239,9 +240,9 @@ graph TD;
     L --> C;
     M --> E;
 
+```
 Une expérience de réalité virtuelle avec des choix et des embranchements.
 
-```
 
 ### Réalité Augmentée (AR)
 

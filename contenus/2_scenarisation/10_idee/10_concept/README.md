@@ -49,3 +49,7 @@ Utiliser le storyboard pour mettre en scène l’évolution de l’idée dans un
 
 Inviter les pairs ou les mentors à donner un retour d’information structuré sur le concept. Cela permet d’identifier les zones floues ou qui méritent d’être renforcées avant la présentation finale.
 
+
+## Étude de cas
+
+* [Choreographies for Humans and Stars, Permanent interactive outdoor installation developed by Daily tous les jours for Montreal's planetarium (2014) par Eva Schindling ](https://openframeworks.cc/ofBook/chapters/project_eva.html)
