@@ -62,5 +62,5 @@ Imaginons une installation immersive où les visiteurs interagissent avec des pr
 - Une palette de couleurs dans des tons froids et des néons pour représenter l’éclairage.
 - Des vidéos de précédentes installations qui intègrent l’interaction via des capteurs de mouvement.
 
-#### Conclusion
+#### Récapitulatif
 La planche d'ambiancesest un élément clé dans la **scénarisation d'une installation multimédia interactive**. En consolidant des idées esthétiques et techniques, elle joue un rôle central pour harmoniser la vision du projet, faciliter la communication, et garantir une expérience utilisateur cohérente. Son rôle ne se limite pas à l'inspiration ; il s’étend à la conception pratique et au prototypage, où elle aide à maintenir la ligne directrice artistique tout au long du processus de développement.

@@ -108,7 +108,7 @@ Utilisés pour des tâches spécifiques de calcul en temps réel, comme le contr
 
 ### Diffusion
 
-Les systèmes d'affichage sont utilisés pour diffuser les médias (vidéo, son, lumière) et créer une expérience immersive.
+Les systèmes d'affichage et de sonorisation sont utilisés pour diffuser les médias (vidéo, son, lumière) et créer une expérience immersive.
 
 #### Vidéo 
 
@@ -133,7 +133,7 @@ Utilisés pour diffuser du son, de la musique, ou des vibrations.
 
 Permettent de créer des environnements lumineux dynamiques.
 
-* Systèmes d'éclairage DMX  
+* Systèmes d'éclairage DMX 
 * LEDs adressables
 
 ## Logiciel
@@ -150,6 +150,7 @@ Utilisés pour développer des expériences interactives où les actions des uti
 * MAX/MSP
 * Pure Data
 * Unreal Engine
+* Blender
 
 #### Systèmes de contrôle d’éclairage  
 
@@ -196,6 +197,6 @@ Le son peut être dynamique et réagir aux mouvements des utilisateurs dans l’
 
 Les logiciels comme **TouchDesigner** ou **MAX/MSP** permettent de générer du contenu sonore ou visuel en temps réel, réagissant de manière unique à chaque interaction utilisateur.
 
-## Conclusion 
+## Récapitulatif 
 
 L'intégration efficace des composants matériels et logiciels est essentielle pour la création d'expériences multimédias interactives engageantes. Chaque élément technologique joue un rôle clé dans la fluidité des interactions entre les utilisateurs et l’installation, rendant l'expérience immersive, intuitive et captivante.

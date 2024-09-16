@@ -6,6 +6,10 @@ La scénarisation de l'expérience interactive est une étape fondamentale dans 
 
 La schématisation dans le contexte de la scénarisation interactive est le processus de représentation visuelle des différents éléments, étapes, et interactions d'une expérience interactive ou d'un scénario. Elle permet de structurer et d'organiser les idées de manière claire et compréhensible, facilitant ainsi la planification, le développement, et la communication du projet.
 
+Des outils de création de diagram tel que le language [Mermaid](../../90_outils/80_mermaid/) ou le logiciel [Draw.io](../../90_outils/81_drawio/) peuvent aider à schématiser un scénario interactif.
+
+## Exemples
+
 ### Applications Mobiles
 
 ```mermaid
@@ -145,7 +149,7 @@ graph TD;
     K --> A;
 ```
 
-Proposant des contenus éducatifs interactifs qui s'adaptent aux actions de l'utilisateur.
+Proposer des contenus éducatifs interactifs qui s'adaptent aux actions de l'utilisateur.
 
 ### Experience multimédia
 
@@ -185,7 +189,6 @@ graph TD;
 
 ### Installations Multimédias
 
-Présentes dans les musées, expositions ou événements, offrant des expériences immersives.
 
 ```mermaid
 graph TD;
@@ -204,7 +207,8 @@ graph TD;
     H -->|Oui| I[Retour à veille];
     H -->|Non| C;
 
-    
+Installation interactive présenté dans un musées, une exposition ou des événement.
+
 ```
 
 ### Réalité Virtuelle (VR) 
@@ -235,6 +239,7 @@ graph TD;
     L --> C;
     M --> E;
 
+Une expérience de réalité virtuelle avec des choix et des embranchements.
 
 ```
 
@@ -262,7 +267,7 @@ graph TD;
 
 ```
 
-Créant des environnements immersifs nécessitant une interaction en temps réel.
+Une expérience de réalité augmentée créant des environnements via une interactivité temps réelle.
 
 ### Publicités Interactives
 
@@ -289,7 +294,7 @@ graph TD;
 
 ```
 
-Permettant à l'utilisateur d'interagir pour découvrir davantage un produit ou un service.
+Permet à l'utilisateur d'interagir pour découvrir davantage un produit ou un service.
 
 ### Livres numériques interactifs 
 
@@ -323,7 +328,7 @@ graph TD;
 
 ```
 
- Enrichis de médias et d'interactions pour une lecture plus engageante.
+ Expérience littéraire enrichis de médias et d'interactions pour une lecture plus engageante.
 
 
 

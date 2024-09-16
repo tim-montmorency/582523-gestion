@@ -1,6 +1,6 @@
-# Le narratif dans l'interactif
+# La trame narrative
 
-Le scénario narratif joue un rôle clé dans la scénarisation d’une installation interactive, car il définit l’arc narratif et l’expérience vécue par l’utilisateur. Contrairement aux formes narratives traditionnelles (comme le cinéma ou le théâtre), le scénario narratif d'une installation interactive doit non seulement raconter une histoire, mais aussi intégrer des éléments d'interaction, permettant à l'utilisateur de devenir un acteur au sein de cette histoire.
+La trame narrative joue un rôle clé dans la scénarisation d’une installation interactive, car elle définit l’arc narratif et l’expérience vécue par l’utilisateur. Contrairement aux formes narratives traditionnelles (comme le cinéma ou le théâtre), le scénario narratif d'une installation interactive doit non seulement raconter une histoire, mais aussi intégrer des éléments d'interaction, permettant à l'utilisateur de devenir un acteur au sein de cette histoire.
 
 ## Définir le scénario narratif
 
