@@ -18,6 +18,7 @@
         * [Scénario interactif](/contenus/2_scenarisation/20_scenario/20_interactif/)
         * [La trame narrative](/contenus/2_scenarisation/20_scenario/30_narratif/)
         * [Expérience Utilisateur (UX)](/contenus/2_scenarisation/20_scenario/40_ux/)
+        * [Examples](/contenus/2_scenarisation/20_scenario/50_exemple/)
     * [Ambiances](/contenus/2_scenarisation/30_ambiances/)
     * [Technologies](/contenus/2_scenarisation/40_technologie/)
     * [Outils](/contenus/2_scenarisation/90_outils/)

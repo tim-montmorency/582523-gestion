@@ -10,6 +10,7 @@
     * [Scénario interactif](/contenus/2_scenarisation/20_scenario/20_interactif/)
     * [La trame narrative](/contenus/2_scenarisation/20_scenario/30_narratif/)
     * [Expérience Utilisateur (UX)](/contenus/2_scenarisation/20_scenario/40_ux/)
+    * [Examples](/contenus/2_scenarisation/20_scenario/50_exemple/)
 * [Ambiances](/contenus/2_scenarisation/30_ambiances/)
 * [Technologies](/contenus/2_scenarisation/40_technologie/)
 * [Outils](/contenus/2_scenarisation/90_outils/)
@@ -58,6 +59,9 @@ flowchart LR
     contenus_2_scenarisation_20_scenario_40_ux["Expérience Utilisateur (UX)"]
     click contenus_2_scenarisation_20_scenario_40_ux "/#/contenus/2_scenarisation/20_scenario/40_ux/"
     contenus_2_scenarisation_20_scenario --> contenus_2_scenarisation_20_scenario_40_ux
+    contenus_2_scenarisation_20_scenario_50_exemple["Examples"]
+    click contenus_2_scenarisation_20_scenario_50_exemple "/#/contenus/2_scenarisation/20_scenario/50_exemple/"
+    contenus_2_scenarisation_20_scenario --> contenus_2_scenarisation_20_scenario_50_exemple
 
 
     contenus_2_scenarisation_90_outils_80_mermaid["Mermaid"]
