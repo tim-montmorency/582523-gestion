@@ -112,11 +112,13 @@
 
 ### Activités
 
+* [Planifier](/activites/3_planifier/)
 
 ## 8 - 10/21
 
 ### Préparation
 
+* Travailler sur [Planifier](/activites/3_planifier/)
 
 ### Contenus
 
@@ -125,8 +127,6 @@
 ### Activités
 
 * Sortie Eisode
-
-
 
 
 ## 9 - 10/28
@@ -134,15 +134,16 @@
 ### Préparation
 
 * Préparation de la présentation orale et des documents accompagnateurs pour la planification  
+* Travailler sur [Planifier](/activites/3_planifier/)
 
 ### Contenus
 
 * Planifier la stratégie d’intégration d’une expérience multimédia.
+* Travailler sur [Planifier](/activites/3_planifier/)
 
 ### Activités
 
 * **EF-3 :** Planification
-
 
 
 ## 10 - 11/04
@@ -151,26 +152,23 @@
 
 ### Contenus
 
-* Démontrer la faisabilité du projet d’expérience multimédia interactive 
-
-* Analyse des limites et contraintes inhérentes à la réalisation du projet 
+* **ES-3 :** Planification
 
 
 ### Activités
 
-* Tests des spécifications et contraintes techniques du projet
-* Tests des moyens techniques pour assurer la faisabilité du projet
+
 
 ## 11 - 11/13
 
 ### Préparation
 
-* **ES-3 :** Planification
 * Relever les problèmes potentiels d’un projet 
 
 ### Contenus
 
-
+* Démontrer la faisabilité du projet d’expérience multimédia interactive 
+* Analyse des limites et contraintes inhérentes à la réalisation du projet 
 * Analyse des limites et contraintes inhérentes à la réalisation du projet 
 * Contraintes techniques relatives à la réalisation et à la diffusion du produit
 * Tests des spécifications et contraintes techniques du projet
