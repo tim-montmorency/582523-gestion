@@ -100,45 +100,40 @@
 
 ### Contenus
 
-* Spécifications et contraintes techniques du projet
-* Performances techniques en fonction des exigences du projet
 * Planification précise de la production (étapes de réalisation, allocations des ressources, plantation technique)
+* Spécifications et contraintes techniques du projet
+* Organigramme de la programmation
+* Fonctionnalités et technologies requises
 * Choix de logiciels, équipement et techniques en fonction des exigences du projet
-
+* Identification des ressources humaines disponibles (technicien·ne en son, intégrateur·rice, programmeur·euse, concepteur·rice, développeur·euse)
+* Identification de ressources matérielles disponibles (ordinateurs, studio, logiciels, médias, casques virtuels)
+* Performances techniques en fonction des exigences du projet
+* Stratégie de montage
 
 ### Activités
 
-* Rédaction d'un rapport
 
 ## 8 - 10/21
 
 ### Préparation
 
-* Mise en ligne du rapport
 
 ### Contenus
 
-* Spécifications et contraintes techniques du projet
-* Performances techniques en fonction des exigences du projet
-* Organigramme de la programmation
-* Planification précise de la production (étapes de réalisation, allocations des ressources, plantation technique)
-* Choix de logiciels, équipement et techniques en fonction des exigences du projet
-* Organigramme de la programmation
-* Fonctionnalités et technologies requises
-* Identification des ressources humaines disponibles (technicien·ne en son, intégrateur·rice, programmeur·euse, concepteur·rice, développeur·euse)
-* Identification de ressources matérielles disponibles (ordinateurs, studio, logiciels, médias, casques virtuels)
-* Stratégie de montage
+* Sortie Eisode
 
 ### Activités
 
-* **EF-3 :** Planification
+* Sortie Eisode
+
+
 
 
 ## 9 - 10/28
 
 ### Préparation
 
-* Préparation de la présentation orale et des documents accompagnateurs  
+* Préparation de la présentation orale et des documents accompagnateurs pour la planification  
 
 ### Contenus
 
@@ -146,7 +141,8 @@
 
 ### Activités
 
-* **ES-3 :** Planification
+* **EF-3 :** Planification
+
 
 
 ## 10 - 11/04
@@ -169,6 +165,7 @@
 
 ### Préparation
 
+* **ES-3 :** Planification
 * Relever les problèmes potentiels d’un projet 
 
 ### Contenus
