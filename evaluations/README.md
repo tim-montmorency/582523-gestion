@@ -50,6 +50,8 @@ L'étudiant·e proposera une idée originale pour une œuvre multimédia hypoth�
 ##### Présentation de la proposition
 * Présenter la proposition lors d'une présentation orale et remettre un document décrivant la proposition en ligne.
 
+
+### EF-3
 #### Titre : Planification Technique
 #### Date : 10/28
 #### Séance : 9
@@ -177,7 +179,7 @@ L'étudiant·e conceptualisera un projet multimédia en rédigeant un scénario 
 
 ### ES-3  
 #### Titre : Planification
-#### Date : 10/04
+#### Date : 11/04
 #### Séance : 10
 #### Pondération : 15%
 
