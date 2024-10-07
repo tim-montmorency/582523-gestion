@@ -50,28 +50,27 @@ L'étudiant·e proposera une idée originale pour une œuvre multimédia hypoth�
 ##### Présentation de la proposition
 * Présenter la proposition lors d'une présentation orale et remettre un document décrivant la proposition en ligne.
 
-### EF-3  
-#### Titre : Planification
-#### Date : 10/21
-#### Séance : 8
+#### Titre : Planification Technique
+#### Date : 10/28
+#### Séance : 9
 
 #### Description
 
-L'étudiant·e élaborera un plan détaillé pour la réalisation de sa proposition hypothétique, incluant les étapes de production, les ressources nécessaires, et les défis potentiels. Ce plan sera présenté oralement et accompagné d'un document remis en ligne.
+L'étudiant·e développera un plan technique complet pour la réalisation de son installation multimédia hypothétique, détaillant les étapes de production, les ressources matérielles et logicielles nécessaires, ainsi que les éventuels défis techniques. Ce plan sera présenté lors d’une présentation orale et accompagné d'un document remis en ligne.
 
 #### Objectifs 
 
-##### Planification de la réalisation
-* Élaborer un plan détaillé pour la réalisation de l’œuvre multimédia hypothétique.
+##### Planification technique
+* Élaborer un plan technique détaillé pour la mise en œuvre de l’œuvre multimédia, incluant la gestion des équipements, des logiciels, et des connexions entre dispositifs.
 
 ##### Identification des ressources
-* Identifier les ressources humaines, matérielles, et techniques nécessaires à la réalisation du projet.
+* Identifier et anticiper les ressources matérielles (équipements, logiciels, espaces) nécessaires au projet, ainsi que la répartition des responsabilités entre l’artiste et les partenaires d’accueil.
 
-##### Prévision des défis et solutions
-* Prévoir les défis potentiels et proposer des solutions pour les surmonter.
+##### Prévision des défis techniques
+* Anticiper les défis techniques potentiels (compatibilité des dispositifs, gestion des flux de données, mise en réseau) et proposer des solutions pour les surmonter.
 
-##### Présentation du plan de réalisation
-* Présenter le plan de réalisation lors d'une présentation orale et remettre un document détaillé en ligne.
+##### Présentation du plan technique
+* Présenter oralement le plan technique et remettre un document détaillé en ligne, incluant les schémas, synoptiques et explications des choix techniques.
 
 ### EF-4  
 #### Titre : Étude de faisabilité
@@ -178,8 +177,8 @@ L'étudiant·e conceptualisera un projet multimédia en rédigeant un scénario 
 
 ### ES-3  
 #### Titre : Planification
-#### Date : 10/28
-#### Séance : 9
+#### Date : 10/04
+#### Séance : 10
 #### Pondération : 15%
 
 #### Description 
@@ -193,16 +192,16 @@ L'étudiant·e planifiera en détail la production de son projet multimédia, en
 
 #### Savoirs essentiels / principaux critères d’évaluation
 
-* Spécifications et contraintes techniques du projet
 * Scénarimage
-* Inventaire des médias prévus au scénario et au scénarimage
-* Numérotation des séquences et médias associés
+* Spécifications et contraintes techniques du projet
+* Identification de ressources matérielles disponibles (ordinateurs, studio, logiciels, médias, casques virtuels)
 * Performances techniques en fonction des exigences du projet
 * Planification précise de la production (étapes de réalisation, allocations des ressources, plantation technique)
 * Choix de logiciels, équipement et techniques en fonction des exigences du projet
 * Organigramme de la programmation
 * Identification des ressources humaines disponibles (technicien·ne en son, intégrateur·rice, programmeur·euse, concepteur·rice, développeur·euse)
-* Identification de ressources matérielles disponibles (ordinateurs, studio, logiciels, médias, casques virtuels)
+* Numérotation des séquences et médias associés
+* Inventaire des médias prévus au scénario et au scénarimage
 * Stratégie de montage
 
 

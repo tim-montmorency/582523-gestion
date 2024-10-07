@@ -1,9 +1,12 @@
 # Planification
 
 <!-- generateSubNav -->
-* [Scénarimage](/contenus/3_planification/30_scenarimage/)
-* [Inventaire multimédia](/contenus/3_planification/31_inventaire_multimedia/)
-* [Arborescence](/contenus/3_planification/32_arborescence/)
-* [Nomenclature](/contenus/3_planification/33_nomenclature/)
-* [Simulation ](/contenus/3_planification/50_simulation/)
+* [Synoptique](/contenus/3_planification/10_synoptique/)
+* [La Plantation](/contenus/3_planification/20_plantation/)
+* [Simulation ](/contenus/3_planification/30_simulation/)
+* [Scénarimage](/contenus/3_planification/40_scenarimage/)
+* [Devis Technique](/contenus/3_planification/50_devis_technique/)
+* [Inventaire multimédia](/contenus/3_planification/60_inventaire_multimedia/)
+* [Arborescence](/contenus/3_planification/61_arborescence/)
+* [Nomenclature](/contenus/3_planification/62_nomenclature/)
 <!-- generateSubNavEnd -->
