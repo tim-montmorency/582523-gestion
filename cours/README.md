@@ -120,13 +120,13 @@
 
 * Travailler sur [Planifier](/activites/3_planifier/)
 
-### Contenus
+* [Sortie Eisode](/activites/3_sortie_eisode/)
 
 * Sortie Eisode
 
 ### Activités
 
-* Sortie Eisode
+* [Sortie Eisode](/activites/3_sortie_eisode/)
 
 
 ## 9 - 10/28
