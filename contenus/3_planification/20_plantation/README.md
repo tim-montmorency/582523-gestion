@@ -42,6 +42,10 @@ Avant l'inauguration de l'installation, une phase de test est cruciale pour vér
 
 La plantation est une étape clé dans la mise en œuvre d'une installation multimédia interactive. Elle vise à optimiser l’intégration des équipements technologiques dans l’espace physique tout en assurant une interaction fluide avec les utilisateurs. Une plantation bien exécutée permet de créer un environnement immersif où les visiteurs peuvent interagir de manière intuitive, sans compromis sur l’esthétique ou la sécurité de l'installation.
 
+## Plans Studios
+
+voir [tim-montmorency.com/cad-studios](https://tim-montmorency.com/cad-studios/#/) 
+
 ## Exemples
 
 * https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/1_om/?id=plantation
