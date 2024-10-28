@@ -46,3 +46,9 @@ Le scénarimage dans le cadre d’une installation interactive doit prendre en c
 
 Le scénarimage est un outil essentiel pour planifier et visualiser le déroulement d’une installation multimédia interactive. Il permet de coordonner les éléments visuels, sonores et interactifs pour créer une expérience immersive et engageante. En intégrant les points d'interaction et les feedbacks utilisateurs, il aide à assurer que l’installation reste cohérente et captivante, tout en offrant des possibilités d’évolution narratives selon les actions des utilisateurs.
 
+
+
+## Inspiration 
+
+[Dune](./DUNE/)
+

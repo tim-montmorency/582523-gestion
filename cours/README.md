@@ -154,9 +154,9 @@
 
 * **ES-3 :** Planification
 
-
 ### Activités
 
+* **ES-3 :** Planification
 
 
 ## 11 - 11/13

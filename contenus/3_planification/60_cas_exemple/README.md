@@ -1,8 +1,13 @@
 # Cas d'étude
 
-## Futurs Spéculaires
+## Sabrina Ratté, 
 
-### Sabrina Ratté, Arsenal 2023
+### Éthéréalité, Mois Multi 2025, QC
+
+https://sr-expo.gitlab.io/2025-mm/#/
+
+
+### Futur Spéculaire, Arsenal 2023 QC
 
 https://gllmar.gitlab.io/arsenal-yul-23/#/
 
@@ -61,27 +66,27 @@ https://gllmar.gitlab.io/arsenal-yul-23/#/
 
 #### Concept
 
-* https://_inflorescence.gitlab.io/mutek2024/#/annexes/venues/
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/venues/[(https://_inflorescence.gitlab.io/mutek2024/#/annexes/venues/)]
 
 #### Simulation
 
-* https://_inflorescence.gitlab.io/mutek2024/#/simulation/
+* [https://_inflorescence.gitlab.io/mutek2024/#/simulation/](https://_inflorescence.gitlab.io/mutek2024/#/simulation/)
 
 #### Devis technique
 
-* https://_inflorescence.gitlab.io/mutek2024/#/techrider/
+* [https://_inflorescence.gitlab.io/mutek2024/#/techrider/](https://_inflorescence.gitlab.io/mutek2024/#/techrider/)
 
 
 #### Spécification matériel
 
-* https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/?id=audio
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/?id=audio](https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/?id=audio)
 
 
 #### Plantation 
 
-* https://_inflorescence.gitlab.io/mutek2024/#/annexes/disposition_SRH/
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/disposition_SRH/](https://_inflorescence.gitlab.io/mutek2024/#/annexes/disposition_SRH/)
 
 #### Synoptique
 
-* https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/](https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/)
 

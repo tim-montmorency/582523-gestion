@@ -1,4 +1,4 @@
-# La Plantation
+# Plantation
 
 La plantation, dans le cadre d'une installation multimédia interactive, se réfère à l'emplacement et à l'organisation des équipements, des capteurs, et des dispositifs interactifs au sein de l'espace d'installation. Ce processus est crucial pour garantir une intégration harmonieuse entre les éléments technologiques et l'environnement physique de l'œuvre, afin de maximiser l'efficacité des interactions et l'impact global de l'installation.
 
