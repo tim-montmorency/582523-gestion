@@ -45,3 +45,12 @@ Le synoptique est souvent utilisé comme un outil de communication entre les con
 ## Récapitulatif
 
 Le synoptique est un outil indispensable pour la planification technique d’une installation multimédia interactive. Il permet de visualiser de manière simple et efficace l'architecture d’un projet, en représentant les connexions entre les dispositifs techniques, les flux de signaux, et les points d’interaction utilisateur. En assurant la clarté et la modularité du schéma, le synoptique facilite la mise en œuvre, la maintenance et l’évolution de l’installation, tout en servant de référence commune pour l’équipe de production.
+
+## Exemples
+
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/1_om/?id=synoptique
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/2_inflo/?id=synoptique
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/9_annexes/10_synoptique_general/
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/](https://_inflorescence.gitlab.io/mutek2024/#/annexes/synoptique/)
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/fairy_led/?id=branchement](https://_inflorescence.gitlab.io/mutek2024/#/annexes/fairy_led/?id=branchement)
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/electrique/](https://_inflorescence.gitlab.io/mutek2024/#/annexes/electrique/)

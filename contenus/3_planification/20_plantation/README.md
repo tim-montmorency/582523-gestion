@@ -41,3 +41,13 @@ Avant l'inauguration de l'installation, une phase de test est cruciale pour vér
 ## Récapitulatif
 
 La plantation est une étape clé dans la mise en œuvre d'une installation multimédia interactive. Elle vise à optimiser l’intégration des équipements technologiques dans l’espace physique tout en assurant une interaction fluide avec les utilisateurs. Une plantation bien exécutée permet de créer un environnement immersif où les visiteurs peuvent interagir de manière intuitive, sans compromis sur l’esthétique ou la sécurité de l'installation.
+
+## Exemples
+
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/1_om/?id=plantation
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/2_inflo/?id=plantation
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/4_cyberdelia/?id=plantation
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/6_terraforma/?id=plantation
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/disposition_SRH/](https://_inflorescence.gitlab.io/mutek2024/#/annexes/disposition_SRH/)
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/container/](https://_inflorescence.gitlab.io/mutek2024/#/annexes/container/)
+* [https://_inflorescence.gitlab.io/mutek2024/#/annexes/logistique/?id=tech-draw](https://_inflorescence.gitlab.io/mutek2024/#/annexes/logistique/?id=tech-draw)

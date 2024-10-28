@@ -31,3 +31,9 @@ Par exemple, lors de la création d’une installation immersive dans un musée,
 * Simuler l’éclairage et les effets sonores, offrant une vue réaliste de l'ambiance globale que l'installation créera.
 
 Des logiciels comme Blender, FreeCAD ou SketchUp sont souvent utilisés pour ces rendus, car ils permettent une grande précision dans le positionnement des objets et une simulation précise des interactions avec la lumière et les ombres.
+
+## Examples 
+
+* https://sr-expo.gitlab.io/2025-mm/#/?id=simulations
+* [https://_inflorescence.gitlab.io/mutek2024/#/simulation/](https://_inflorescence.gitlab.io/mutek2024/#/simulation/)
+* https://gllmar.gitlab.io/arsenal-yul-23/#/

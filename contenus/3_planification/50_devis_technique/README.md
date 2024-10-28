@@ -67,3 +67,11 @@ Le devis technique doit inclure une estimation des coûts liés à chaque équip
 ## Récapitulatif
 
 Le devis technique est un outil indispensable pour planifier et organiser une installation multimédia interactive. En anticipant les besoins matériels et logiciels et en répartissant clairement les responsabilités entre l’artiste et les partenaires d’accueil, il garantit une mise en place fluide et fonctionnelle du projet. Une bonne préparation permet non seulement de répondre aux exigences créatives du projet, mais aussi d'assurer sa viabilité technique et logistique.
+
+## Exemples 
+
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/1_om/?id=devis
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/2_inflo/?id=devis
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/4_cyberdelia/?id=devis-technique
+* https://sr-expo.gitlab.io/2025-mm/#/1_oeuvres/6_terraforma/?id=devis-technique
+* [https://_inflorescence.gitlab.io/mutek2024/#/techrider/](https://_inflorescence.gitlab.io/mutek2024/#/techrider/)
