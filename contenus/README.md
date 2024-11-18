@@ -35,4 +35,7 @@
     * [Inventaire multimédia](/contenus/3_planification/70_inventaire_multimedia/)
     * [Arborescence](/contenus/3_planification/71_arborescence/)
     * [Nomenclature](/contenus/3_planification/72_nomenclature/)
+* [Étude de faisabilité](/contenus/4_faisabilite/)
+    * [Étude de faisabilité](/contenus/4_faisabilite/10_etude/)
+* [Conception](/contenus/5_conception/)
 <!-- generateSubNavEnd -->

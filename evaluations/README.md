@@ -76,7 +76,7 @@ L'étudiant·e développera un plan technique complet pour la réalisation de so
 
 ### EF-4  
 #### Titre : Étude de faisabilité
-#### Date : 11/13
+#### Date : 12/02
 #### Séance : 11
 
 #### Description
@@ -95,7 +95,7 @@ L'étudiant·e choisira un aspect spécifique de son projet multimédia hypothé
 * Proposer des solutions pour assurer la faisabilité de cet aspect du projet.
 
 ##### Présentation de l'étude de faisabilité
-* Présenter l'étude de faisabilité lors d'une présentation orale et remettre un document détaillé en ligne.
+* Présenter l'étude de faisabilité au sein du projet global lors d'une présentation orale et remettre la documentation détaillé en ligne.
 
 ### EF-5  
 #### Titre : Concevoir une expérience multimédia
@@ -213,13 +213,13 @@ L'étudiant·e planifiera en détail la production de son projet multimédia, en
 
 ### ES-4  
 #### Titre : Étude de faisabilité
-#### Date : 11/18
+#### Date : 12/09
 #### Séance : 12
 #### Pondération : 15%
 
 #### Description 
 
-L'étudiant·e effectuera une étude de faisabilité pour son projet multimédia, en testant les contraintes techniques et en adaptant le scénario pour assurer la faisabilité du projet. La présentation sera orale et accompagnée d'un document remis en ligne.
+L'étudiant·e effectuera une étude de faisabilité pour une section du projet multimédia, en testant les contraintes techniques et en adaptant le scénario pour assurer la faisabilité du projet d'équipe. La présentation sera orale et accompagnée d'un document remis en ligne.
 
 #### Forme de l’évaluation
 
@@ -230,17 +230,16 @@ L'étudiant·e effectuera une étude de faisabilité pour son projet multimédia
 
 * Démontrer la faisabilité du projet d’expérience multimédia interactive 
 * Analyse des limites et contraintes inhérentes à la réalisation du projet 
+* Choix du matériel et des logiciels nécessaires à la réalisation et à la diffusion du produit multimédia 
 * Contraintes techniques relatives à la réalisation et à la diffusion du produit
-* Tests des spécifications et contraintes techniques du projet
-* Tests de la stratégie de montage
-* Tests des moyens techniques pour assurer la faisabilité du projet
+* Élaboration de la stratégie de montage
+* Identification des spécifications et contraintes techniques du projet
+* Documentation de la faisabilité technique du projet
 * Proposition de moyens techniques pour assurer la faisabilité du projet
 * Adaptation du scénario et du scénarimage pour assurer la faisabilité du projet
 * Élaboration et justification de l’échéancier de production
-* Documentation de la faisabilité technique du projet
 * Professionnalisme
 * Rédaction d’un rapport
-* Choix du matériel et des logiciels nécessaires à la réalisation et à la diffusion du produit multimédia 
 
 #### Intégration des apprentissages
 
@@ -259,7 +258,7 @@ L'étudiant·e concevra et présentera une expérience multimédia complète, in
 #### Forme de l’évaluation
 
 ##### Type : Présentation et remise en ligne
-##### Individuel·le / équipe
+##### Équipe
 
 #### Savoirs essentiels / principaux critères d’évaluation
 

@@ -6,4 +6,5 @@
 * [Scénariser l'interactivité](/activites/2_scenariser/)
 * [Planification d'Installation Multimédia](/activites/3_planifier/)
 * [Sortie Eisode](/activites/3_sortie_eisode/)
+* [Concevoir](/activites/5_concevoir/)
 <!-- generateSubNavEnd -->
