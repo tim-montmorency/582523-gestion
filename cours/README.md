@@ -198,12 +198,13 @@
 
 ### Activités
 
-* **ES-4 :** Étude de faisabilité
 
 
 ## 13 - 11/25
 
 ### Préparation
+
+* *Pitch* d'expérience multimédia interactive
 
 ### Contenus
 
@@ -241,6 +242,7 @@
 
 ### Activités
 
+* **ES-4 :** Étude de faisabilité
 * **ES-5 :** Concevoir une expérience multimédia
 
 
