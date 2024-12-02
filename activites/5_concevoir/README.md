@@ -1,5 +1,15 @@
 # Concevoir
 
+## Modèle à modifier 
+
+### Multifichier Readme
+
+* [Publication via intégration continue](/contenus/1_presentation/github/scriptCI/)
+
+### Un fichier Readme
+
+* [Publication page simple](/contenus/1_presentation/github/pages/)
+
 ## Requis Expériences multimédia interactive
 
 * ~30 personnes 
