@@ -11,8 +11,11 @@
 * un thème qui rassemble 
     * identité visuelle et conceptuelle
 
+## Une station de projection par équipe
 
-## Une présentation par équipe
+![espaces de projection disponible](./presentations_2024.drawio.png)
+
+## Une présentation orale par équipe  
 
 ### Éléments à traiter
 
@@ -20,7 +23,6 @@
 * Titre 
 * Idée et pitch 
 * Comment ça s'intègre dans le thème global
-
 
 
 #### Artistique
