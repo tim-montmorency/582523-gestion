@@ -37,7 +37,7 @@
 
 * Synoptique
 * Technologies employées
-* Plantation
+* Plantation [Plantation à modifier pour le Gstudio](./grand_studio_cad_.drawio.png)
 * Devis technique
 
 
