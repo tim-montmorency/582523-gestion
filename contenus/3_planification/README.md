@@ -1,6 +1,6 @@
 # Planification
 
-<!-- generateSubNav -->
+<!-- start-replace-subnav -->  
 * [Synoptique](/contenus/3_planification/10_synoptique/)
 * [Plantation](/contenus/3_planification/20_plantation/)
 * [Simulation ](/contenus/3_planification/30_simulation/)
@@ -11,4 +11,5 @@
 * [Inventaire multimédia](/contenus/3_planification/70_inventaire_multimedia/)
 * [Arborescence](/contenus/3_planification/71_arborescence/)
 * [Nomenclature](/contenus/3_planification/72_nomenclature/)
-<!-- generateSubNavEnd -->
+<!-- end-replace-subnav -->
+

@@ -1,6 +1,6 @@
 # Étude de faisabilité
 
-Dans le domaine en constante évolution de l'intégration multimédia, l'ajout de technologies interactives aux installations existantes ou nouvelles est devenu essentiel pour offrir des expériences utilisateur immersives et engageantes. Cependant, avant de se lancer dans un tel projet, il est crucial de réaliser une **étude de faisabilité**. Cet article vise à guider les **technicien·ne·s en intégration multimédia** à travers les étapes clés de cette étude, en mettant l'accent sur les spécificités liées aux technologies interactives.
+Dans le domaine en constante évolution de l'intégration multimédia, l'ajout de technologies interactives aux installations existantes ou nouvelles est devenu essentiel pour offrir des expériences utilisateur immersives et engageantes. Cependant, avant de se lancer dans un tel projet, il est crucial de réaliser une **étude de faisabilité**. Cet article vise à guider les **technicien·ne·s en intégration multimédia** à travers les étapes clés de la production d'un étude de faisabilité, mettant l'accent sur les spécificités liées aux technologies interactives.
 
 ## Importance de l'étude de faisabilité dans les projets multimédias
 
@@ -120,17 +120,9 @@ Imaginons un centre scientifique souhaitant créer une installation où les visi
   - **Études de cas** : Rechercher des projets similaires ayant utilisé le LIDAR pour des installations interactives afin de tirer des enseignements des expériences précédentes.
 
 
-### Comparer les différents produits suivant
-
-* https://ca.robotshop.com/fr/products/scanner-laser-360-ydlidar-g2?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1gqCoJJMR5P6eggUyULVlJOOziVwXvJZZ163RHviWF-8F1Ty_i5FB0aAix0EALw_wcB
-* https://www.waveshare.com/rplidar-c1.htm
-* https://www.waveshare.com/d500-lidar-kit.htm
-* https://www.waveshare.com/dtof-lidar-stl27l.htm
 
 ## Récapitulatif
 
 La réalisation d'une étude de faisabilité est une étape indispensable pour le succès de tout projet d'intégration de technologies interactives dans une installation multimédia. Elle permet de prendre des décisions éclairées, de maximiser l'efficacité des ressources et d'assurer que le projet répond aux objectifs fixés. En tant que technicien·ne·s en intégration multimédia, votre expertise est cruciale pour mener à bien cette étude et pour créer des expériences interactives innovantes et durables.
 
-
-## Exemple LIDAR
 

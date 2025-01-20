@@ -2,5 +2,5 @@
 
 <!-- generateSubNav -->
 * [Publication de Pages GitHub](/contenus/1_presentation/github/pages/)
-* [Intégration Continue](/contenus/1_presentation/github/scriptCI/)
+* [Publication Docsify via intégration continue ](/contenus/1_presentation/github/scriptCI/)
 <!-- generateSubNavEnd -->

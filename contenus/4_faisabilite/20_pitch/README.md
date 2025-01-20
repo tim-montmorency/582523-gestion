@@ -1,6 +1,6 @@
 # Le "pitch" 
 
-Dans le domaine de la création multimédia interactive, savoir présenter efficacement son projet est aussi crucial que de le développer. Un bon "pitch" peut non seulement capter l'attention de votre audience, mais aussi susciter l'enthousiasme et le soutien nécessaires pour mener à bien votre initiative. Cet article est destiné aux étudiants qui souhaitent réaliser une expérience multimédia interactive en équipe et se concentre sur les éléments clés d'un pitch réussi.
+Savoir présenter efficacement son projet est aussi crucial que de le développer. Un bon "pitch" peut non seulement capter l'attention de votre audience, mais aussi susciter l'enthousiasme et le soutien nécessaires pour mener à bien votre initiative. Cet article est destiné aux étudiants qui souhaitent réaliser une expérience multimédia interactive en équipe et se concentre sur les éléments clés d'un pitch réussi.
 
 ## 1. Clarté et concision
 
